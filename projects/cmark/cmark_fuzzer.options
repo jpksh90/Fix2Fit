@@ -1,3 +1,0 @@
-[libfuzzer]
-dict = cmark.dict
-max_len = 256
